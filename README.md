@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&height=90&lines=%3E+DATA+SCIENTIST;%3E+AI%2FML+ENGINEER;%3E+AI+SECURITY+%2B+GOVERNANCE;%3E+PLAYER%3A+RISK+QUOTIENT+(CYGENIQ)" alt="role"/>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FF206E,50:00F5FF,100:FFD23F&height=24&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <img src="https://img.shields.io/badge/CGPA-9.62%2F10.0-FF206E?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2D0140" />
 <img src="https://img.shields.io/badge/LOCATION-NAVI%20MUMBAI-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=2D0140" />
@@ -21,10 +21,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:00F5FF,50:FFD23F,100:FF206E&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ABOUT_ME.EXE" alt="about"/>
+
+<span style="color:#FFD23F;">◆</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ABOUT_ME.EXE" alt="about"/>
+
 </div>
 
 ```yaml
@@ -47,17 +49,19 @@ I build complete AI systems — from raw data through model architecture, evalua
 <summary>🕹️ <b>PRESS START — current side quests</b></summary>
 <br>
 
-- 🔴 **AI Red Teaming** — adversarial testing vs. OWASP LLM Top 10 & MITRE ATLAS
-- ⚖️ **AI Governance** — EU AI Act, India's DPDP Act, RBI AI frameworks
-- 🛡️ **Adversarial robustness** in RAG pipelines
-- 🤖 **Agentic AI systems** and tool-use architectures
+- <span style="color:#FFD23F;">◆</span> **AI Red Teaming** — adversarial testing vs. OWASP LLM Top 10 & MITRE ATLAS
+- <span style="color:#FFD23F;">▤</span> **AI Governance** — EU AI Act, India's DPDP Act, RBI AI frameworks
+- <span style="color:#FFD23F;">◆</span> **Adversarial robustness** in RAG pipelines
+- <span style="color:#FFD23F;">⚙</span> **Agentic AI systems** and tool-use architectures
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FFD23F,50:FF206E,100:00F5FF&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+INVENTORY.SYS" alt="tech"/>
+
+<span style="color:#FFD23F;">▣</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+INVENTORY.SYS" alt="tech"/>
+
 </div>
 
 <p align="center">
@@ -100,10 +104,12 @@ I build complete AI systems — from raw data through model architecture, evalua
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=2D0140" />
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FF206E,50:00F5FF,100:FFD23F&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+SKILL_TREE.SAV" alt="skills"/>
+
+<span style="color:#FFD23F;">▤</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+SKILL_TREE.SAV" alt="skills"/>
+
 </div>
 
 ```
@@ -115,10 +121,12 @@ I build complete AI systems — from raw data through model architecture, evalua
 📈 BI / DATA VIZ          █████████████████░░░ 85% LVL
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:00F5FF,50:FFD23F,100:FF206E&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+BOSS_PROJECTS.EXE" alt="projects"/>
+
+<span style="color:#FFD23F;">★</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+BOSS_PROJECTS.EXE" alt="projects"/>
+
 </div>
 
 <table>
@@ -195,10 +203,12 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FFD23F,50:FF206E,100:00F5FF&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ACHIEVEMENTS.LOG" alt="certs"/>
+
+<span style="color:#FFD23F;">★</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ACHIEVEMENTS.LOG" alt="certs"/>
+
 </div>
 
 <p align="center">
@@ -207,23 +217,27 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 <img src="https://img.shields.io/badge/APNA%20COLLEGE-PRIME%20AI-FFD23F?style=for-the-badge&labelColor=2D0140" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FF206E,50:00F5FF,100:FFD23F&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+STATS.DAT" alt="stats"/>
+
+<span style="color:#FFD23F;">▤</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+STATS.DAT" alt="stats"/>
+
 </div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shravanichandane&show_icons=true&theme=radical&hide_border=true&title_color=FF206E&icon_color=00F5FF&text_color=c9d1d9&bg_color=2D0140" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shravanichandane&show_icons=true&theme=radical&hide_border=true&title_color=FF206E&icon_color=00F5FF&text_color=c9d1d9&bg_color=2D0140" />
   <img height="165" src="https://streak-stats.demolab.com/?user=shravanichandane&theme=radical&hide_border=true&background=2D0140&ring=00F5FF&fire=FF206E&currStreakLabel=FFD23F" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanichandane&layout=compact&theme=radical&hide_border=true&bg_color=2D0140&title_color=FF206E&text_color=c9d1d9" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shravanichandane&layout=compact&theme=radical&hide_border=true&bg_color=2D0140&title_color=FF206E&text_color=c9d1d9" />
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+TROPHY_ROOM.SAV" alt="trophies"/>
+
+<span style="color:#FFD23F;">★</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+TROPHY_ROOM.SAV" alt="trophies"/>
+
 </div>
 
 <p align="center">
@@ -231,7 +245,9 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+QUEST_LOG.MAP" alt="activity"/>
+
+<span style="color:#FFD23F;">◈</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+QUEST_LOG.MAP" alt="activity"/>
+
 </div>
 
 <p align="center">
@@ -239,7 +255,9 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+PIXEL_SNAKE.GAME" alt="snake"/>
+
+<span style="color:#FFD23F;">▶</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+PIXEL_SNAKE.GAME" alt="snake"/>
+
 </div>
 
 <p align="center">
@@ -248,10 +266,12 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 > 🕹️ Needs a one-time GitHub Actions workflow in a repo named `shravanichandane/shravanichandane` — see [Platane/snk](https://github.com/Platane/snk).
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:00F5FF,50:FFD23F,100:FF206E&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+NPC_WISDOM.TXT" alt="quote"/>
+
+<span style="color:#FFD23F;">◉</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+NPC_WISDOM.TXT" alt="quote"/>
+
 </div>
 
 <p align="center">
@@ -259,7 +279,9 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+CURRENT_MISSION.SAV" alt="mission"/>
+
+<span style="color:#FFD23F;">▲</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+CURRENT_MISSION.SAV" alt="mission"/>
+
 </div>
 
 ```yaml
@@ -270,12 +292,15 @@ exploring:  ["Adversarial robustness in RAG", "EU AI Act mapping", "Agentic AI"]
 open_to:    ["AI/ML collaborations", "AI Security research", "Open-source projects"]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:FFD23F,50:FF206E,100:00F5FF&height=20&section=header" width="100%">
+<img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
 
+<span style="color:#FFD23F;">↻</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
+
+
+<span style="color:#FFD23F;">✉</span>
 <a href="mailto:shravanichandane5@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SHRAVANICHANDANE5-FF206E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D0140" /></a>
 <a href="https://linkedin.com/in/shravani-c-58ab062b6"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2D0140" /></a>
 <a href="https://github.com/shravanichandane"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFD23F?style=for-the-badge&logo=github&logoColor=black&labelColor=2D0140" /></a>
