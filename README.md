@@ -19,13 +19,17 @@
 <img src="https://komarev.com/ghpvc/?username=shravanichandane&color=ff206e&style=for-the-badge&label=PLAYER+VISITS&labelColor=2D0140" />
 <img src="https://img.shields.io/github/followers/shravanichandane?style=for-the-badge&color=00f5ff&labelColor=2D0140&label=FOLLOWERS" />
 
+
+
 </div>
 
 <img src="https://raw.githubusercontent.com/shravanichandane/shravanichandane/main/divider.svg" width="100%" height="20" />
 
+
+
 <div align="center">
 
-<span style="color:#FFD23F;">◆</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ABOUT_ME.EXE" alt="about"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+ABOUT_ME.EXE" alt="about"/>
 
 </div>
 
@@ -60,7 +64,7 @@ I build complete AI systems — from raw data through model architecture, evalua
 
 <div align="center">
 
-<span style="color:#FFD23F;">▣</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+INVENTORY.SYS" alt="tech"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+INVENTORY.SYS" alt="tech"/>
 
 </div>
 
@@ -87,7 +91,7 @@ I build complete AI systems — from raw data through model architecture, evalua
 <img src="https://img.shields.io/badge/Vector%20DBs-FF206E?style=for-the-badge&labelColor=2D0140" />
 </details>
 
-<details>
+<details open>
 <summary>💾 <b>BI & VISUALIZATION</b></summary>
 <br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=2D0140" />
@@ -95,7 +99,7 @@ I build complete AI systems — from raw data through model architecture, evalua
 <img src="https://img.shields.io/badge/Plotly-00F5FF?style=for-the-badge&logo=plotly&logoColor=black&labelColor=2D0140" />
 </details>
 
-<details>
+<details open>
 <summary>🖥️ <b>MLOPS & DEPLOYMENT</b></summary>
 <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2D0140" />
@@ -108,7 +112,7 @@ I build complete AI systems — from raw data through model architecture, evalua
 
 <div align="center">
 
-<span style="color:#FFD23F;">▤</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+SKILL_TREE.SAV" alt="skills"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+SKILL_TREE.SAV" alt="skills"/>
 
 </div>
 
@@ -125,7 +129,7 @@ I build complete AI systems — from raw data through model architecture, evalua
 
 <div align="center">
 
-<span style="color:#FFD23F;">★</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+BOSS_PROJECTS.EXE" alt="projects"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+BOSS_PROJECTS.EXE" alt="projects"/>
 
 </div>
 
@@ -221,7 +225,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">▤</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+STATS.DAT" alt="stats"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+STATS.DAT" alt="stats"/>
 
 </div>
 
@@ -236,7 +240,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">★</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+TROPHY_ROOM.SAV" alt="trophies"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+TROPHY_ROOM.SAV" alt="trophies"/>
 
 </div>
 
@@ -246,7 +250,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">◈</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+QUEST_LOG.MAP" alt="activity"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+QUEST_LOG.MAP" alt="activity"/>
 
 </div>
 
@@ -256,7 +260,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">▶</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+PIXEL_SNAKE.GAME" alt="snake"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+PIXEL_SNAKE.GAME" alt="snake"/>
 
 </div>
 
@@ -270,7 +274,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">◉</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+NPC_WISDOM.TXT" alt="quote"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+NPC_WISDOM.TXT" alt="quote"/>
 
 </div>
 
@@ -280,7 +284,7 @@ End-to-end ML pipelines, cost-weighted precision/recall/F1 evaluation.
 
 <div align="center">
 
-<span style="color:#FFD23F;">▲</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+CURRENT_MISSION.SAV" alt="mission"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+CURRENT_MISSION.SAV" alt="mission"/>
 
 </div>
 
@@ -297,7 +301,7 @@ open_to:    ["AI/ML collaborations", "AI Security research", "Open-source projec
 <div align="center">
 
 
-<span style="color:#FFD23F;">↻</span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
+<span style="color:#FFD23F;"></span> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=500&height=40&lines=%3E+GAME_OVER%3F+CONTINUE%3F" alt="connect"/>
 
 
 <span style="color:#FFD23F;">✉</span>
